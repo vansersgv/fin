@@ -1,0 +1,25 @@
+.cart-widget {
+    position: relative;
+}
+
+.cart-link {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #4ad8a6;
+}
+
+.imgCarrito {
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    color: #fff;
+}
+
+strong {
+    background-color: #e15050;
+    color: #fff;
+    padding: 4px 8px;
+    border-radius: 50%;
+    font-size: 14px;
+}
